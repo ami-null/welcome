@@ -11,17 +11,17 @@ format:
         navigation-mode: vertical
         controls: true
         # title-slide-attributes:
-        #     data-background-image: resized/s1.JPG
+        #     data-background-image: resized/s1.jpg
         #     data-background-color: "rgb(22, 38, 73)"
         #     data-background-size: contain
 ---
 
-# {background-color="rgb(22, 38, 73)" background-image="bg/s1.JPG" background-size="contain"}
+# {background-color="rgb(22, 38, 73)" background-image="bg/s1.jpg" background-size="contain"}
 
-# {background-color="rgb(22, 38, 73)" background-image="bg/s2.JPG" background-size="contain"}
+# {background-color="rgb(22, 38, 73)" background-image="bg/s2.jpg" background-size="contain"}
 
-# {background-color="rgb(22, 38, 73)" background-image="bg/s3.JPG" background-size="contain"}
+# {background-color="rgb(22, 38, 73)" background-image="bg/s3.jpg" background-size="contain"}
 
-# {background-color="rgb(22, 38, 73)" background-image="bg/s4.JPG" background-size="contain"}
+# {background-color="rgb(22, 38, 73)" background-image="bg/s4.jpg" background-size="contain"}
 
-# {background-color="rgb(22, 38, 73)" background-image="bg/s5.JPG" background-size="contain"}
+# {background-color="rgb(22, 38, 73)" background-image="bg/s5.jpg" background-size="contain"}
