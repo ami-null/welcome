@@ -1,15 +1,16 @@
 ---
 format: 
     revealjs:
+        pagetitle: Welcome to ISRT
         menu: false
         history: false
         height: 1280
         width: 720
         transition: slide
+        controls: true
         background-transition: slide
         controls-layout: bottom-right
-        navigation-mode: vertical
-        controls: true
+        #navigation-mode: vertical
         # title-slide-attributes:
         #     data-background-image: resized/s1.jpg
         #     data-background-color: "rgb(22, 38, 73)"
